@@ -1,1 +1,1 @@
-postgres：latest
+postgres
